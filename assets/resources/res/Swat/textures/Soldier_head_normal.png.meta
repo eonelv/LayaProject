@@ -1,0 +1,17 @@
+{
+  "uuid": "6f5751e9-d14a-4848-aba0-db4a467dccc5",
+  "importer": {
+    "platformDefault": {
+      "format": 10
+    },
+    "platformPC": {
+      "format": "BC3"
+    },
+    "platformAndroid": {
+      "format": "ASTC_8X8"
+    },
+    "platformIOS": {
+      "format": "ASTC_8X8"
+    }
+  }
+}

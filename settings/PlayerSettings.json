@@ -1,0 +1,11 @@
+{
+  "modules": {
+    "_$type": true,
+    "laya.d3": true,
+    "laya.ui": true
+  },
+  "splash": {
+    "fit": "center"
+  },
+  "stat": true
+}
